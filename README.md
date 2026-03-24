@@ -7,5 +7,4 @@
 
 ----
 
-# Olá eu me chamo Rodrigo Lara e esse vai ser meu primeiro commit.
 
